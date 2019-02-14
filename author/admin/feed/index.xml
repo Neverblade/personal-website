@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>admin &#8211; My Blog</title>
+	<title>admin &#8211; James Lin</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
-	<description>My WordPress Blog</description>
-	<lastBuildDate>Sat, 02 Feb 2019 19:51:18 +0000</lastBuildDate>
+	<description>Graduate Student</description>
+	<lastBuildDate>Thu, 14 Feb 2019 07:51:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
