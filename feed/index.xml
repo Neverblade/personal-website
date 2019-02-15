@@ -12,11 +12,19 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Graduate Student</description>
-	<lastBuildDate>Thu, 14 Feb 2019 08:08:18 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Feb 2019 04:56:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.0.3</generator>
+
+<image>
+	<url>./../wp-content/uploads/2019/02/cropped-musical-note-32x32.png</url>
+	<title>James Lin</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>./../2019/02/02/hello-world/index.html</link>
